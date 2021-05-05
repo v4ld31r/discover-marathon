@@ -1,0 +1,37 @@
+/* Global ===================*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f0f2f5;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.container {
+    width: 300px;
+
+    margin: auto;
+}
+
+/* Header ===================*/
+header {
+    background: #2d4a22;
+    padding: 2rem 0 10rem;
+    text-align: center;
+}
+
+header h1 {
+    color: #fff;
+    font-weight: 100;
+}
+
+/* Balance====================*/
+
+/* Footer====================*/
+
+footer {
+    text-align: center;
+}
